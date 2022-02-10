@@ -2,10 +2,7 @@ body {
   background-color: darkgrey;
 }
 
-.fence {
-  outline: dashed 1px darkslategray;
-}
+header {
+  background-color: rgb(46, 42, 42);
 
-.pen{
-  height: 20vh;
 }
