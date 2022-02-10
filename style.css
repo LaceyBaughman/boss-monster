@@ -1,0 +1,11 @@
+body {
+  background-color: darkgrey;
+}
+
+.fence {
+  outline: dashed 1px darkslategray;
+}
+
+.pen{
+  height: 20vh;
+}
