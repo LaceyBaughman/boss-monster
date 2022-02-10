@@ -1,8 +1,17 @@
 body {
-  background-color: darkgrey;
+  background-color: white;
 }
 
 header {
-  background-color: rgb(46, 42, 42);
+  background-color: #f28c05;
+  min-height: 20vh;
+  text-align: center;
+}
 
+img {
+  max-height: 40vh;
+}
+
+.dragon-bg{
+  background-color: #f6f6f6;
 }
