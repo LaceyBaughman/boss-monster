@@ -15,3 +15,11 @@ img {
 .dragon-bg{
   background-color: #f6f6f6;
 }
+
+button {
+  background-color: #f28c05;
+  color: black;
+  font-size: x-large;
+  min-width: 200px;
+
+}
