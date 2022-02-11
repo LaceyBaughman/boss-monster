@@ -5,8 +5,10 @@ const hero = {
 
 const boss = {
   health: 100,
-  level: 1
+  level: 1,
 }
+
+
 
 function attackMonster() {
   console.log('here is our attack function');
